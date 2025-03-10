@@ -19,6 +19,7 @@ Langkah-langkah untuk menyiapkan lingkungan agar dashboard bisa dijalankan.
 
 Instruksi spesifik untuk menyiapkan dependensi menggunakan shell/terminal (CMD di Windows).
 
+
 1. **Buka Command Prompt**:
    - Tekan `Win + R`, ketik `cmd`, lalu tekan Enter.
    - Pastikan CMD terbuka.
@@ -45,3 +46,6 @@ Instruksi spesifik untuk menyiapkan dependensi menggunakan shell/terminal (CMD d
 
   3. **You can now view your Streamlit app in your browser**.
 Local URL: http://localhost:8501
+
+![ss1](https://github.com/user-attachments/assets/f000060c-fa03-4f43-b750-1cc404056c2d)
+
