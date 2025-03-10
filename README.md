@@ -38,9 +38,10 @@ Instruksi spesifik untuk menyiapkan dependensi menggunakan shell/terminal (CMD d
       3. Instal:
        pip install streamlit pandas matplotlib seaborn
       4. Jalankan:
-         cd C:/Proyek_Analisis_Data
+         cd C:/Proyek_Analisis_Data-Dengn-Python
       5. Lanjutkan
          streamlit run dashboard.py
+         
 
   3. **You can now view your Streamlit app in your browser**.
 Local URL: http://localhost:8501
