@@ -27,8 +27,8 @@ Instruksi spesifik untuk menyiapkan dependensi menggunakan shell/terminal (CMD d
    - Ketik perintah berikut untuk masuk ke folder proyek:
      
    - Cek Instalasi Ulang:
-       pip uninstall streamlit
-       pip install streamlit
+       -pip uninstall streamlit
+       -pip install streamlit
 
    -Gunakan Virtual Environment (opsi bersih):
       1. Buat environment:
